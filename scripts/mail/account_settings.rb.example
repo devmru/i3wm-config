@@ -1,0 +1,4 @@
+IMAP_SERVER = 'mail.dev-m.ru'
+IMAP_PORT = '110'
+IMAP_USERNAME = 'proger@dev-m.ru'
+IMAP_PASSWORD = 'm7jr5YRJ'
